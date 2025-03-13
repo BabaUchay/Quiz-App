@@ -67,3 +67,9 @@ body{
 .incorrect{
   background: #ff9393;
 }
+footer{
+  font-size: 10px;
+  color: #001e4d;
+  font-weight: 600;
+  padding-top: 30px
+}
