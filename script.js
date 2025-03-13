@@ -1,38 +1,92 @@
 const questions = [
 {
-    question: "which is the largest animal in the world?",
+    question: "Who was the first female Vice-Chancellor in Nigeria?",
     answers: [
-    {text: "shark", correct: false},
-    {text: "Blue whale", correct: true},
-    {text: "Elephant", correct: false},
-    {text: "Giraffe", correct: false},
+    {text: "Ngozi Okonjo-Iweala", correct: false},
+    {text: "Grace Alele-Williams", correct: true},
+    {text: "Dora Akunyili", correct: false},
+    {text: "Funmilayo Ransome-Kuti", correct: false},
     ]
 },
 {
-    question: "which is the smallest Continent in the world?",
+    question: "Which government agency is responsible for organizing elections in Nigeria?",
     answers: [
-    {text: "Asia", correct: false},
-    {text: "Australia", correct: true},
-    {text: "Arctic", correct: false},
-    {text: "Africa", correct: false},
+    {text: "EFCC", correct: false},
+    {text: "INEC", correct: true},
+    {text: "NAFDAC", correct: false},
+    {text: "FRSC", correct: false},
     ]
 },
 {
-    question: "which is the smallest country in the world?",
+    question: "Who was the Nigerian woman that played a major role in the Aba Women's Riot of 1929?",
     answers: [
-    {text: "Vatican City", correct: true},
-    {text: "Nigeria", correct: false},
-    {text: "Ghana", correct: false},
-    {text: "Togo", correct: false},
+    {text: "Margaret Ekpo", correct: true},
+    {text: "Queen Amina", correct: false},
+    {text: "Funmilayo Ransome-Kuti", correct: false},
+    {text: "Kudirat Abiola", correct: false},
     ]
 },
 {
-    question: "which is the largest desert in the world?",
+    question: "What is the main duty of the National Assembly in Nigeria?",
     answers: [
-    {text: "Kalahari", correct: false},
-    {text: "Sambisa", correct: false},
-    {text: "Sahara", correct: false},
-    {text: "Antarctic", correct: true},
+    {text: "Conduct elections", correct: false},
+    {text: "Enforce traffic rules", correct: false},
+    {text: "Regulate fuel prices", correct: false},
+    {text: "Make and amend laws", correct: true},
+    ]
+},
+{
+    question: "Which Nigerian woman was a former Director-General of NAFDAC and played a key role in fighting fake drugs?",
+    answers: [
+    {text: "Stella Adadevoh", correct: false},
+    {text: "Ngozi Okonjo-Iweala", correct: false},
+    {text: "Oby Ezekwesili", correct: false},
+    {text: "Dora Akunyili", correct: true},
+    ]
+},
+{
+    question: "What year was Abia state created?",
+    answers: [
+    {text: "5 June 1980", correct: false},
+    {text: "2 October 1990", correct: false},
+    {text: "4 may 1993", correct: false},
+    {text: "27 August 1991", correct: true},
+    ]
+},
+{
+    question: "Who is the woman in 20 naira note?",
+    answers: [
+    {text: "Kadi kwali.", correct: true},
+    {text: "Mrs Azikiwe", correct: false},
+    {text: "Mrs ironsi", correct: false},
+    {text: "Mrs Gowon", correct: false},
+    ]
+},
+{
+    question: "What year did Nigeria Amalgamated?",
+    answers: [
+    {text: "October 1920", correct: false},
+    {text: "June 1930", correct: false},
+    {text: "February 1910", correct: false},
+    {text: "January 1914", correct: true},
+    ]
+},
+{
+    question: "Who is the first executive governor of Abia State?",
+    answers: [
+    {text: "Dr orji uzor kalu", correct: false},
+    {text: "Chief  T A. Orji", correct: false},
+    {text: "Dr Ogbonnaya Onu", correct: true},
+    {text: "Dr. Okezie Ikpeazu", correct: false},
+    ]
+},
+{
+    question: "Who was the first female elected governor in Nigeria?",
+    answers: [
+    {text: "Ngozi Okonjo-Iweala", correct: false},
+    {text: "Chimamanda Ngozi Adichie", correct: false},
+    {text: "Folorunsho Alakija", correct: false},
+    {text: "Virginia Etiaba", correct: true},
     ]
 },
 ];
